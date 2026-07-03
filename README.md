@@ -19,15 +19,5 @@ Before running the project, make sure you have the following installed:
 
 1.  **Python 3.8+**
 2.  **FFmpeg** (Required by Whisper to process audio)
-    *   *Windows (via Winget):* `winget install Gyan.FFmpeg`
-    *   *Mac (via Homebrew):* `brew install ffmpeg`
-    *   *Linux (Ubuntu/Debian):* `sudo apt install ffmpeg`
 
 ---
-
-## Installation & Setup
-
-1. **Clone the repository:**
-   ```bash
-   git clone [https://github.com/your-username/your-repository-name.git](https://github.com/your-username/your-repository-name.git)
-   cd your-repository-name
